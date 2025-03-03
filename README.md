@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nurtopluyurek
-- 👀 I’m interested in cybertechnology
+  
 - 🌱 I’m currently learning SQL,python,react
 
 - 📫 How to reach me topluyurek898@gmail.com
