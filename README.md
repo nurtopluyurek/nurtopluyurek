@@ -1,7 +1,8 @@
-- Hi, I'm @nurtopluyurek
+## Hey, I’m Nur 👋
 
-- I'm currently learning SQL, Python, React
+Computer Engineering student, product thinker, and professional “let’s turn this into a Trello card” person.
 
+I build, organize, test, review, and occasionally argue with chatbots until they sound human.
 - How to reach me: topluyurek898@gmail.com
 
 ## GitHub Space Shooter
